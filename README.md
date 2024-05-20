@@ -8,6 +8,7 @@
 - **Code fast:** Our code compiler makes it easy to craft APIs blazing fast.
 - **Deploy to the cloud:** Easy to build and deploy your use cases to Production.
 
-*Save time and move fast! Try [Smallapi](https://smallapi.io/) for free today.*
+*Focus on your business while moving fast!
+Try [Smallapi](https://smallapi.io/) for free today.*
 
 <img width="1470" alt="image" src="https://github.com/Small-api/smallapi/assets/15267552/3bdf5b90-2ffa-4b4b-b3b7-6b786f60955e">
