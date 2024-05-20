@@ -1,10 +1,8 @@
 # smallapi
 
 ## Build APIs, Web services and cloud functions in minutes.
-## Deploy to production in just a few clicks.
 
 ### What SmallApi helps you?
-
 
 - **Design Data:** Configure flexible data models that meet your business needs.
 - **Code fast:** Our code compiler makes it easy to craft APIs blazing fast.
