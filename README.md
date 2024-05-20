@@ -2,7 +2,7 @@
 
 ## Build APIs, Web services and cloud functions in minutes.
 
-Smallapi is a code plateform that helps developers to craft, build and deploy APIs to the cloud in no time.
+Smallapi is a code plateform that helps developers craft, build and deploy APIs to the cloud in no time.
 Built on top of Javascript and MongoDB, Smallapi significantly reduces the amount of code you need to write and therefore increases code quality and time to market.
 
 ### What SmallApi helps you?
