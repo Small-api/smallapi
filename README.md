@@ -1,4 +1,4 @@
-# smallapi
+# Smallapi
 
 ## Build APIs, Web services and cloud functions in minutes.
 
