@@ -5,7 +5,7 @@
 Smallapi is a code plateform that helps developers craft, build and deploy APIs to the cloud in no time.
 Built on top of Javascript and MongoDB, Smallapi significantly reduces the amount of code you need to write and therefore increases **code quality** and **time to market**.
 
-### What SmallApi helps you?
+### What Smallapi helps you?
 
 - **Design Data:** Configure flexible data models that meet your business needs.
 - **Code fast:** Our code compiler makes it easy to craft APIs blazing fast.
